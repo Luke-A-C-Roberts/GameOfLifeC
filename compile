@@ -1,0 +1,2 @@
+#!/usr/bin/zsh
+gcc main.c -O3 -Wextra -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -o game
